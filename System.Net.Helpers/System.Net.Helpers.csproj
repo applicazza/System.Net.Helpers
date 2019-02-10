@@ -8,6 +8,7 @@
         <PackageProjectUrl>https://github.com/applicazza/System.Net.Helpers</PackageProjectUrl>
         <PackageIconUrl>https://image.flaticon.com/icons/svg/149/149181.svg</PackageIconUrl>
         <RepositoryUrl>https://github.com/applicazza/System.Net.Helpers</RepositoryUrl>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
 </Project>
