@@ -1,4 +1,6 @@
-﻿namespace System.Net.Helpers
+﻿using System.Collections.Generic;
+
+namespace System.Net.Helpers
 {
     public static class EndpointHelper
     {
@@ -22,6 +24,11 @@
             }
 
             return (host, port);
+        }
+
+        public static string ToSingleString(this IEnumerable<EndPoint> endpoints, string separator = ", ")
+        {
+            return string.Join("; ", endpoints);
         }
     }
 }

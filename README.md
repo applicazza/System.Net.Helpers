@@ -6,6 +6,12 @@ Various helpers for `System.Net.Helpers`
 
 ## Usage
 
+### IEnumerable<EndPoint>.ToSingleString()
+
+```csharp
+var result = endpoints.ToSingleString();
+```
+
 ### EndPoint.Split()
 
 ```csharp
