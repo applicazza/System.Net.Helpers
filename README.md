@@ -1,6 +1,6 @@
 # System.Net.Helpers
 
-[![](https://img.shields.io/nuget/v/System.Net.Helpers.svg?label=System.Net.Helpers&style=flat)](https://www.nuget.org/packages/System.Net.Helpers/)
+[![](https://img.shields.io/nuget/v/Helpers.System.Net.svg?label=Helpers.System.Net&style=flat)](https://www.nuget.org/packages/Helpers.System.Net/)
 
 Various helpers for `System.Net.Helpers`
 
