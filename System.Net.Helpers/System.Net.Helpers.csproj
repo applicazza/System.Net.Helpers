@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageId>Helpers.System.Net</PackageId>
+        <Title>Various helpers for System.Net</Title>
+        <Authors>Artyom Sokolov</Authors>
+        <PackageProjectUrl>https://github.com/applicazza/System.Net.Helpers</PackageProjectUrl>
+        <PackageIconUrl>https://image.flaticon.com/icons/svg/149/149181.svg</PackageIconUrl>
+        <RepositoryUrl>https://github.com/applicazza/System.Net.Helpers</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
